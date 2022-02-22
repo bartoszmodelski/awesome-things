@@ -19,6 +19,14 @@ What every programmer should know about...
 
 [A visual introduction to Gaussian Belief Propagation](https://gaussianbp.github.io/)
 
+### Functional 
+
+[First steps with Category Theory and OCaml](https://www.mseri.me/typeclass-ocaml/)
+
+[Lawvere Theories](https://bartoszmilewski.com/2017/08/26/lawvere-theories/)
+
+[Coeffects](http://tomasp.net/coeffects/)
+
 ### Other 
 
 [Locality-sensitive hashing (blogpost)](http://tylerneylon.com/a/lsh1/)
@@ -31,9 +39,6 @@ What every programmer should know about...
 
 [Auction Theory](https://www.sciencedirect.com/book/9780123745071/auction-theory)
 
-[First steps with Category Theory and OCaml](https://www.mseri.me/typeclass-ocaml/)
-
-[Lawvere Theories](https://bartoszmilewski.com/2017/08/26/lawvere-theories/)
 
 # Math
 
