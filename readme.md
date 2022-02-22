@@ -24,12 +24,10 @@
 
 [Lawvere Theories](https://bartoszmilewski.com/2017/08/26/lawvere-theories/)
 
-#### What every programmer should know about...
-[...memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
-
-[...floating-point arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
-
-[...SSDs](http://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html)
+What every programmer should know about...
+* [...memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+* [...floating-point arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+* [...SSDs](http://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html)
 
 
 
@@ -51,7 +49,7 @@
 #### Self-study
 [Book list](https://marktomforde.com/academic/mathmajors/textbook-suggestions.html)
 
-[Book list & guide](https://www.neilwithdata.com/mathematics-self-learner)
+[Another book list & guide](https://www.neilwithdata.com/mathematics-self-learner)
 
 ### Finance
 [Quant resources](https://github.com/wilsonfreitas/awesome-quant)
