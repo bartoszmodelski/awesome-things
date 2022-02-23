@@ -13,11 +13,15 @@ What every programmer should know about...
 * [...floating-point arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 * [...SSDs](http://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html)
 
+[MESI protocol](https://en.wikipedia.org/wiki/MESI_protocol)
+
 ### ML
 
 [Reinforcement Learning](https://rltheorybook.github.io/)
 
 [A visual introduction to Gaussian Belief Propagation](https://gaussianbp.github.io/)
+
+[Convolutional GP](https://arxiv.org/pdf/1709.01894.pdf)
 
 ### Functional 
 
