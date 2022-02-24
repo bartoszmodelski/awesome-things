@@ -58,6 +58,8 @@ What every programmer should know about...
 
 [Statistic 110: Probability (Harvard)](https://projects.iq.harvard.edu/stat110/home)
 
+[Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/syllabus/)
+
 ### Misc 
 
 [The Kelly criterion: How to size bets?](https://explore.paulbutler.org/bet/)
