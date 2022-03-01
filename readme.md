@@ -31,6 +31,8 @@ What every programmer should know about...
 
 [Coeffects](http://tomasp.net/coeffects/)
 
+[Proper, first-order and higher-kinded types](https://danso.ca/blog/higher-kinded-types/)
+
 ### Other 
 
 [Locality-sensitive hashing (blogpost)](http://tylerneylon.com/a/lsh1/)
