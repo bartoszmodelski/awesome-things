@@ -15,6 +15,10 @@ What every programmer should know about...
 
 [MESI protocol](https://en.wikipedia.org/wiki/MESI_protocol)
 
+[Network performance](https://github.com/leandromoreira/linux-network-performance-parameters)
+
+[The Tower of Weakenings: Memory Models For Everyone](https://gankra.github.io/blah/tower-of-weakenings/)
+
 ### ML
 
 [Reinforcement Learning](https://rltheorybook.github.io/)
@@ -22,6 +26,8 @@ What every programmer should know about...
 [A visual introduction to Gaussian Belief Propagation](https://gaussianbp.github.io/)
 
 [Convolutional GP](https://arxiv.org/pdf/1709.01894.pdf)
+
+[Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf)
 
 ### Functional 
 
@@ -33,7 +39,11 @@ What every programmer should know about...
 
 [Proper, first-order and higher-kinded types](https://danso.ca/blog/higher-kinded-types/)
 
+[OCaml ppx](https://tarides.com/blog/2019-05-09-an-introduction-to-ocaml-ppx-ecosystem)
+
 ### Other 
+
+[Kalman filter](https://mathvoices.ams.org/featurecolumn/2022/02/01/the-kalman-filter-helping-chickens-cross-the-road/)
 
 [Locality-sensitive hashing (blogpost)](http://tylerneylon.com/a/lsh1/)
 
@@ -44,6 +54,9 @@ What every programmer should know about...
 [Auctions and bidding: A guide for computer scientists (1hr video)](https://www.youtube.com/watch?v=v502KYHa3aE&ab_channel=PapersWeLove)
 
 [Auction Theory](https://www.sciencedirect.com/book/9780123745071/auction-theory)
+
+[Data Visualisation in R](https://rkabacoff.github.io/datavis/)
+
 
 
 # Math
@@ -64,6 +77,7 @@ What every programmer should know about...
 
 [Spectral and Algebraic Graph Theory](http://cs-www.cs.yale.edu/homes/spielman/sagt/)
 
+[Fundamentals of Waves and Vibrations](https://www.coursera.org/learn/fundamentals-waves-vibrations)
 ### Misc 
 
 [The Kelly criterion: How to size bets?](https://explore.paulbutler.org/bet/)
@@ -81,3 +95,11 @@ What every programmer should know about...
 [Jak człowiek staje się mordercą?](https://www.empik.com/jak-czlowiek-staje-sie-morderca-mroczne-opowiesci-psychiatry-sadowego-taylor-richard,p1259411580,ksiazka-p#:~:text=Taylor%20pr%C3%B3buje%20dociec%2C%20co%20kryje,%C5%BCycie%20i%20umys%C5%82%20ich%20lekarza.)
 
 [The Tibetan Book of the Dead](https://en.wikipedia.org/wiki/Bardo_Thodol)
+
+[Why Nuclear War Probabilities are Useless](https://unfashionable.substack.com/p/nuclear?s=r)
+
+[The Manager's Handbook](https://themanagershandbook.com/)
+
+[Persuasion and the Prestige Paradox](https://quillette.com/2021/04/03/persuasion-and-the-prestige-paradox-are-high-status-people-more-likely-to-lie/)
+
+[Find Your Ultimate Daily Routine](https://www.thefabulous.co/)
