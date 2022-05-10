@@ -41,6 +41,8 @@ What every programmer should know about...
 
 [OCaml ppx](https://tarides.com/blog/2019-05-09-an-introduction-to-ocaml-ppx-ecosystem)
 
+[Structural Editor for OCaml](https://watch.ocaml.org/videos/watch/e0a6e6f2-0d40-4dfc-9308-001c8e0f64d6)
+
 ### Other 
 
 [Kalman filter](https://mathvoices.ams.org/featurecolumn/2022/02/01/the-kalman-filter-helping-chickens-cross-the-road/)
