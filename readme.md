@@ -43,6 +43,8 @@ What every programmer should know about...
 
 [Structural Editor for OCaml](https://watch.ocaml.org/videos/watch/e0a6e6f2-0d40-4dfc-9308-001c8e0f64d6)
 
+[The Little Typer](https://www.amazon.co.uk/Little-Typer-MIT-Press/dp/0262536439/)
+
 ### Other 
 
 [Kalman filter](https://mathvoices.ams.org/featurecolumn/2022/02/01/the-kalman-filter-helping-chickens-cross-the-road/)
@@ -60,6 +62,21 @@ What every programmer should know about...
 [Data Visualisation in R](https://rkabacoff.github.io/datavis/)
 
 
+# Fuhnance 
+
+[Forecasting: Principles and Practise](https://otexts.com/fpp2/)
+
+[Basic Econometics Gujarati Porter](https://cbpbu.ac.in/userfiles/file/2020/STUDY_MAT/ECO/1.pdf)
+
+[Computational Methods in Pricing and Model Calibration](https://www.coursera.org/learn/financial-engineering-computationalmethods)
+
+[Low Latency Interest Rate Markets - Theory, Pricing and Practice](https://github.com/nburgessx/SwapsBook)
+
+[Numerical Methods for Engineers](https://www.coursera.org/learn/numerical-methods-engineers)
+
+[Applied Quantitative Methods for Trading and Investment](https://www.amazon.com/Applied-Quantitative-Methods-for-Trading-and-Investment-The-Wiley-Finance-Series/dp/0470848855)
+
+[Easier papers](https://github.com/nburgessx/Papers)
 
 # Math
 
