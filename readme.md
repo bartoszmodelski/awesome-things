@@ -62,7 +62,9 @@ What every programmer should know about...
 [Data Visualisation in R](https://rkabacoff.github.io/datavis/)
 
 
-# Fuhnance 
+# Finance 
+
+[Numerical Methods for Engineers](https://www.coursera.org/learn/numerical-methods-engineers)
 
 [Forecasting: Principles and Practise](https://otexts.com/fpp2/)
 
@@ -72,11 +74,25 @@ What every programmer should know about...
 
 [Low Latency Interest Rate Markets - Theory, Pricing and Practice](https://github.com/nburgessx/SwapsBook)
 
-[Numerical Methods for Engineers](https://www.coursera.org/learn/numerical-methods-engineers)
-
 [Applied Quantitative Methods for Trading and Investment](https://www.amazon.com/Applied-Quantitative-Methods-for-Trading-and-Investment-The-Wiley-Finance-Series/dp/0470848855)
 
 [Easier papers](https://github.com/nburgessx/Papers)
+
+## Statarb 
+
+[Statistical Arbitrage in the U.S. Equities Market]
+
+[Quantitative Portfolio Management]
+
+[Algorithmic Trading and Quantitative Strategies]
+
+## Momentum
+
+[Deep learning price momentum in US equities]
+
+[Why is there no momentum in the Taiwan stock market?]
+
+[Enhancing Time-Series Momentum Strategies Using Deep Neural Networks]
 
 # Math
 
@@ -94,19 +110,28 @@ What every programmer should know about...
 
 [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/syllabus/)
 
-[Spectral and Algebraic Graph Theory](http://cs-www.cs.yale.edu/homes/spielman/sagt/)
+[Linear Algebra: Theory, Intuition, Code](https://www.amazon.co.uk/Linear-Algebra-Theory-Intuition-Code/dp/9083136604/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
-[Fundamentals of Waves and Vibrations](https://www.coursera.org/learn/fundamentals-waves-vibrations)
+[Analysis, Measure and Probability: a visual intro](http://euclid.trentu.ca/pivato/Teaching/measure.pdf)
+
+[A Primer For The Mathematics Of Financial Engineering, Second Edition](https://www.amazon.com/Primer-Mathematics-Financial-Engineering-Edition/dp/0979757622)
+
+[C++ for Financial Mathematics](https://www.amazon.co.uk/Financial-Mathematics-Chapman-Hall-CRC/dp/1498750052/ref=asc_df_1498750052/?tag=googshopuk-21&linkCode=df0&hvadid=310810203983&hvpos=&hvnetw=g&hvrand=6460579998187840038&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9044965&hvtargid=pla-360286342444&psc=1&th=1&psc=1)
+
 ### Misc 
 
 [The Kelly criterion: How to size bets?](https://explore.paulbutler.org/bet/)
 
 [A new coefficient of correlation](https://arxiv.org/abs/1909.10140)
 
+
+
 ### Self-study
 [Book list](https://marktomforde.com/academic/mathmajors/textbook-suggestions.html)
 
 [Another book list & guide](https://www.neilwithdata.com/mathematics-self-learner)
+
+[Guide to learning stochastic analysis](https://www.reddit.com/r/math/comments/q2zrdu/guide_how_to_get_into_stochastic_analysis/)
 
 # Misc
 [Open Decision-Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
